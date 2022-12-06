@@ -4,7 +4,7 @@
 >This is not a mandatory step. This is a track for those who already know a tech or have previously worked on a technology and do not want to give the test.
 
 ### How to start?
-This repository contains a list of all projects that you can contribute to for this Round 2.
+This repository contains a list of all projects that you can contribute to.
 You can start by choosing any one from the following that you want to contibute.
 
 - Choose a project from the list below.
