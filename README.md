@@ -8,7 +8,7 @@ This repository contains a list of all projects that you can contribute to.
 You can start by choosing any one from the following that you want to contibute.
 
 - Choose a project from the list below.
-- Explore the issues on that repository or You can create your own.
+- Explore the issues on that repository or you can create your own.
 - Work on any of them or your work issue and make contribution.
 - And done!
 
