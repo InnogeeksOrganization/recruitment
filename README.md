@@ -27,15 +27,20 @@ You can start by choosing any one from the following that you want to contibute.
  
  - Android Development:
   - [Mukt](https://github.com/devAyushDubey/Mukt)
-  - 
-  -
+  - [Bhuk](https://github.com/soumenkp2/SocioWelfare-Bhuk)
+  - [Pehchan - A Phonebook App](https://github.com/soumenkp2/Pehchaan)
+  - [Resume Builder](https://github.com/soumenkp2/resume_builder)
  
  - Web Development
-  -
-  -
-  -
+  - [EcoJoy](https://github.com/RyanWalker277/EcoJoy)
+  - [HelpU](https://github.com/RyanWalker277/HelpU)
+  - [QR Convertor](https://github.com/1010varun/qr-convertor)
+  - [truWeather](https://github.com/1010varun/weather-app)
  
  - Machine Learning & IoT
+  - [Gesture Control Gaming](https://github.com/ambuj-1211/Gesture-Controlled-Game)
   -
   -
-  -
+
+
+## All the best!👍
