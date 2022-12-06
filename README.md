@@ -18,7 +18,7 @@ You can start by choosing any one from the following that you want to contibute.
 
 `7 December` to `14 December`
 
-### Projects List
+## Projects List
 
 - Augmented/ Virtual Reality:
   - [VRYoga](https://github.com/devAyushDubey/VRYoga)
