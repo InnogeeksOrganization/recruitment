@@ -1,6 +1,6 @@
 # Hey Freshers! 👋
 
-## This is for people opting to go for project contribution in place of the test in Round 2.
+>**This is for people opting to go for project contribution in place of the test in Round 2.**
 >This is not a mandatory step. This is a track for those who already know a tech or have previously worked on a technology and do not want to give the test.
 
 ### How to start?
