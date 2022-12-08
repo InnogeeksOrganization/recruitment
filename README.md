@@ -27,6 +27,8 @@ You can start by choosing any one from the following that you want to contibute.
 - [QR Convertor](https://github.com/1010varun/qr-convertor) : (React)
 - [Article Scraper](https://github.com/visheshks04/article-scraper) : (Python)
 - [Innogeeks AR Poster](https://github.com/devAyushDubey/ARPoster2021_Innogeeks) (Unity 3D)
+- [Spotify Clone](https://github.com/arjit1704/Spotify_Clone) : (HTML, CSS, JS)
+- [Text Edits](https://github.com/arjit1704/TextEdits) : (Django)
 
 
 ### **Intermediate**
