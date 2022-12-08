@@ -9,7 +9,7 @@ You can start by choosing any one from the following that you want to contibute.
 
 - Choose a project from the list below.
 - Explore the issues on that repository or you can create your own.
-- Work on any of them or your work issue and make contribution.
+- Work on any of them or work on yout issue and make contribution.
 - And done!
 
 **You will be judged based on the contribution you have made.**
