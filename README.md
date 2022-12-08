@@ -22,15 +22,17 @@ You can start by choosing any one from the following that you want to contibute.
 
 ### **Beginner**
 
-- [Article Scraper](https://github.com/visheshks04/article-scraper)
-- [Pushup Pong](https://github.com/visheshks04/pushup-pong)
+- [Pushup Game](https://github.com/visheshks04/pushup-pong) : (Python)
+- [truWeather](https://github.com/1010varun/weather-app) : (HTML, Tailwind CSS, JS)
+- [QR Convertor](https://github.com/1010varun/qr-convertor) : (React)
+- [Article Scraper](https://github.com/visheshks04/article-scraper) : (Python)
+- [Innogeeks AR Poster](https://github.com/devAyushDubey/ARPoster2021_Innogeeks) (Unity 3D)
 
 
 ### **Intermediate**
 
 - 🥽 Augmented/ Virtual Reality:
   - [VRYoga](https://github.com/devAyushDubey/VRYoga)
-  - [Innogeeks AR Poster](https://github.com/devAyushDubey/ARPoster2021_Innogeeks)
   - [Electro World](https://github.com/Anupam1603/ElectroWorld)
  
 - 📱 Android Development:
@@ -42,8 +44,6 @@ You can start by choosing any one from the following that you want to contibute.
 - 🌐 Web Development
   - [EcoJoy](https://github.com/RyanWalker277/EcoJoy)
   - [HelpU](https://github.com/RyanWalker277/HelpU)
-  - [QR Convertor](https://github.com/1010varun/qr-convertor)
-  - [truWeather](https://github.com/1010varun/weather-app)
  
 - 🐍 Python & Data
   - [Gesture Control Gaming](https://github.com/ambuj-1211/Gesture-Controlled-Game)
