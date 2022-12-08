@@ -22,6 +22,8 @@ You can start by choosing any one from the following that you want to contibute.
 
 ### **Beginner**
 
+- [Article Scraper](https://github.com/visheshks04/article-scraper)
+- [Pushup Pong](https://github.com/visheshks04/pushup-pong)
 
 
 ### **Intermediate**
@@ -43,10 +45,8 @@ You can start by choosing any one from the following that you want to contibute.
   - [QR Convertor](https://github.com/1010varun/qr-convertor)
   - [truWeather](https://github.com/1010varun/weather-app)
  
-- 🧠 Machine Learning & IoT
+- 🐍 Python & Data
   - [Gesture Control Gaming](https://github.com/ambuj-1211/Gesture-Controlled-Game)
-  -
-  -
 
 
 ## All the best!👍
