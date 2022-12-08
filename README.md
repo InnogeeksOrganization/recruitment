@@ -20,6 +20,12 @@ You can start by choosing any one from the following that you want to contibute.
 
 ## Projects List 💻
 
+### **Beginner**
+
+
+
+### **Intermediate**
+
 - 🥽 Augmented/ Virtual Reality:
   - [VRYoga](https://github.com/devAyushDubey/VRYoga)
   - [Innogeeks AR Poster](https://github.com/devAyushDubey/ARPoster2021_Innogeeks)
