@@ -1,7 +1,7 @@
 # Hey Freshers! 👋
 
->**This is for people opting to go for project contribution in place of the test in Round 2.**<br>
->This is not a mandatory step. This is a track for those who already know a tech or have previously worked on a technology and do not want to give the test.
+>**This is for people opting to go for Open-Source Contribution also with the CBT in Round 2.**<br>
+>This is a bonus step. This is a track for those who already know a tech or are enthusiastic about leaning and contributing.
 
 ### How to start? 🔥
 This repository contains a list of all projects that you can contribute to.
