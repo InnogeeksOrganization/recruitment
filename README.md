@@ -16,7 +16,7 @@ You can start by choosing any one from the following that you want to contibute.
 
 ### **Deadline**❗
 
-`9 December` to `14 December`
+`11 December` to `14 December`
 
 ## Projects List 💻
 
