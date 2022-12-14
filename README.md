@@ -1,3 +1,5 @@
+# Recruitment Evaluations are officially over. Thank You for contributing!
+---
 # Hey Freshers! 👋
 
 >**This is for people opting to go for Open-Source Contribution also with the CBT in Round 2.**<br>
