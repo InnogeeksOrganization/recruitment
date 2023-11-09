@@ -1,38 +1,36 @@
-# Recruitment Evaluations are officially over. Thank You for contributing!
----
-# Hey Freshers! 👋
 
->**This is for people opting to go for Open-Source Contribution also with the CBT in Round 2.**<br>
->This is a bonus step. This is a track for those who already know a tech or are enthusiastic about leaning and contributing.
+# Hello, newbies! 👋
 
-### How to start? 🔥
-This repository contains a list of all projects that you can contribute to.
-You can start by choosing any one from the following that you want to contibute.
+>This is for people opting to go for Open-Source Contribution also with the CBT in Round 2.
+This is a bonus step. This is a track for those who already know a tech or are enthusiastic about leaning and contributing.
 
-- Choose a project from the list below.
-- Explore the issues on that repository or you can create your own.
-- Work on any of them or work on yout issue and make contribution.
-- And done!
+### How do I begin? 🔥
+A list of all the projects to which you can contribute is available in this repository.
+To get started, pick whichever of the following you would want to contribute to.
 
-**You will be judged based on the contribution you have made.**
+Select a project from the following list.
+- Look through the issues in that repository or start a new one.
+- Work on any of these or contribute to your own issue.
+- Completed!
 
+**Your evaluation will be based on the input you have made.**
 ### **Deadline**❗
 
-`11 December` to `14 December`
+`  5 November` to `10 November`
 
 ## Projects List 💻
 
 ### **Beginner**
 
 - [~~Simple Login Form~~](https://github.com/devAyushDubey/simpleformINNO) : (HTML, CSS)
-- [Blog Cards](https://github.com/devAyushDubey/blogcardsINNO) : (HTML, CSS)
-- [Pushup Game](https://github.com/visheshks04/pushup-pong) : (Python)
+- [newz_aware](https://github.com/visheshks04/newz-aware) : (Python)
 - [truWeather](https://github.com/1010varun/weather-app) : (HTML, Tailwind CSS, JS)
 - [QR Convertor](https://github.com/1010varun/qr-convertor) : (React)
 - [Article Scraper](https://github.com/visheshks04/article-scraper) : (Python)
 - [Innogeeks AR Poster](https://github.com/devAyushDubey/ARPoster2021_Innogeeks) (Unity 3D)
 - [Spotify Clone](https://github.com/arjit1704/Spotify_Clone) : (HTML, CSS, JS)
 - [Text Edits](https://github.com/arjit1704/TextEdits) : (Django)
+
 
 
 ### **Intermediate**
@@ -46,6 +44,8 @@ You can start by choosing any one from the following that you want to contibute.
   - [Bhuk](https://github.com/soumenkp2/SocioWelfare-Bhuk)
   - [Pehchan - A Phonebook App](https://github.com/soumenkp2/Pehchaan)
   - [Resume Builder](https://github.com/soumenkp2/resume_builder)
+  - [Flutter Eventifyer](https://github.com/rachit-goyal1071/flutter-eventifyer)
+  - [Go Green](https://github.com/ShubhAgarwal0704/Gogreen)
  
 - 🌐 Web Development
   - [EcoJoy](https://github.com/RyanWalker277/EcoJoy)
@@ -53,6 +53,7 @@ You can start by choosing any one from the following that you want to contibute.
  
 - 🐍 Python & Data
   - [Gesture Control Gaming](https://github.com/ambuj-1211/Gesture-Controlled-Game)
+  - [Alien Invansion](https://github.com/enrich4real/Alien_Invasion)
 
 
 ## All the best!👍
